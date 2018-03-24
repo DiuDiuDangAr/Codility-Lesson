@@ -1,2 +1,3 @@
-# Codility-Lesson
-a place where I can share the notes from codility lesson and my answer codes
+# Training
+a place where I can share the notes for OS, Computer Organization, DS, Algorithm ... (especially for interview :))
+
